@@ -57,7 +57,7 @@ lista-publicaciones/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/lista-publicaciones.git
+git clone https://github.com/MiguelAngeltxt/lista-publicaciones.git
 
 # 2. Entrar a la carpeta
 cd lista-publicaciones
@@ -69,7 +69,7 @@ npm install
 npm run dev
 ```
 
-Abrí tu navegador en `http://localhost:5173` para ver la aplicación.
+Abre tu navegador en `http://localhost:5173` para ver la aplicación.
 
 ---
 
@@ -108,5 +108,5 @@ Cada publicación tiene la siguiente forma:
 
 ## 👤 Autor
 
-Desarrollado por **TU_NOMBRE**  
-[GitHub](https://github.com/TU_USUARIO)
+Desarrollado por **MIGUEL ANGEL FALCON VALENZUELA**  
+[GitHub](https://github.com/MiguelAngeltxt)
